@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../yt-assignmt2/images/using-now"
+		},
+		{
+			"path": "../yt-assignmt2/images/section3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "yt-assignment4"
+	}
+}
